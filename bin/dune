@@ -1,0 +1,4 @@
+(executable
+ (public_name cml)
+ (name main)
+ (libraries cml))
